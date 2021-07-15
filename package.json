@@ -28,7 +28,7 @@
     "@nestjs/microservices": "7.6.17",
     "@nestjs/platform-express": "7.6.17",
     "@nestjs/testing": "7.6.17",
-    "@types/express": "4.17.12",
+    "@types/express": "4.17.13",
     "@types/hapi__joi": "17.1.6",
     "@types/jest": "26.0.23",
     "@types/node": "14.17.3",
