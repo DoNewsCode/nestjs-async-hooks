@@ -39,7 +39,7 @@
     "express": "4.17.2",
     "husky": "4.3.8",
     "jest": "27.4.5",
-    "lint-staged": "12.1.2",
+    "lint-staged": "12.1.7",
     "prettier": "2.5.1",
     "reflect-metadata": "0.1.13",
     "release-it": "14.11.8",
