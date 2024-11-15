@@ -29,7 +29,7 @@
     "@nestjs/platform-express": "8.4.7",
     "@nestjs/testing": "8.4.7",
     "@types/express": "5.0.0",
-    "@types/hapi__joi": "17.1.14",
+    "@types/hapi__joi": "17.1.15",
     "@types/jest": "29.5.13",
     "@types/node": "20.16.11",
     "@typescript-eslint/eslint-plugin": "8.9.0",
