@@ -42,7 +42,7 @@
     "lint-staged": "16.1.2",
     "prettier": "3.5.3",
     "reflect-metadata": "0.1.13",
-    "release-it": "18.1.2",
+    "release-it": "19.0.3",
     "rimraf": "6.0.1",
     "treeify": "1.1.0",
     "ts-jest": "29.3.2",
